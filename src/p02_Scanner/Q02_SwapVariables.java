@@ -1,6 +1,6 @@
 package p02_Scanner;
 
-public class Q2_SwapVariables {
+public class Q02_SwapVariables {
     public static void main(String[] args) {
 		/*
 		 * 1- Verilen sayi1 ve sayi2 variable’larinin degerlerini degistiren (SWAP) bir program yaziniz
