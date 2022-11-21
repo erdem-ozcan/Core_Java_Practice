@@ -1,6 +1,6 @@
 package p03_IncrementDecrement;
 
-public class Q3_AutoWidening {
+public class Q03_AutoWidening {
     public static void main(String[] args) {
 
         byte sayi1=44;

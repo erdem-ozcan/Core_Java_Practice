@@ -2,7 +2,7 @@ package p03_IncrementDecrement;
 
 import java.util.Scanner;
 
-public class Q2_Scanner {
+public class Q02_Scanner {
 
     public static void main(String[] args) {
 

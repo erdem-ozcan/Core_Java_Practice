@@ -2,7 +2,7 @@ package p03_IncrementDecrement;
 
 import java.util.Scanner;
 
-public class Q1_Scanner {
+public class Q01_Scanner {
 
     public static void main(String[] args) {
         // Soru 3) Kullanicidan yaricap isteyip cemberin cevresini
