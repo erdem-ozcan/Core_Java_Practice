@@ -1,4 +1,4 @@
-package p04_MatematikselIslemler;
+package p04_matematikselIslemler;
 
 public class Q02_MatematikselIslemler {
     public static void main(String[] args) {

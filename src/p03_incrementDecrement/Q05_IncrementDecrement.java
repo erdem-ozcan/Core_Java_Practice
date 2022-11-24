@@ -1,4 +1,4 @@
-package p03_IncrementDecrement;
+package p03_incrementDecrement;
 
 public class Q05_IncrementDecrement {
     public static void main(String[] args) {

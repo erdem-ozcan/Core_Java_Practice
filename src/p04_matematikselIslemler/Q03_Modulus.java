@@ -1,4 +1,4 @@
-package p04_MatematikselIslemler;
+package p04_matematikselIslemler;
 
 import java.util.Scanner;
 

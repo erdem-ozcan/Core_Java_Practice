@@ -1,4 +1,4 @@
-package p02_Scanner;
+package p02_scanner;
 
 public class Q02_SwapVariables {
     public static void main(String[] args) {

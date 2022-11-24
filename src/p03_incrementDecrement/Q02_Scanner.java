@@ -1,4 +1,4 @@
-package p03_IncrementDecrement;
+package p03_incrementDecrement;
 
 import java.util.Scanner;
 

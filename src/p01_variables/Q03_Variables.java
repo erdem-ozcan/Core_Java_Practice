@@ -1,4 +1,4 @@
-package p01_Variables;
+package p01_variables;
 
 public class Q03_Variables {
 

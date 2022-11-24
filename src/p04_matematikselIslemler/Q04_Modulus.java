@@ -1,14 +1,14 @@
-package p04_MatematikselIslemler;
+package p04_matematikselIslemler;
 
 import java.util.Scanner;
 
-public class Q05_Modulus {
+public class Q04_Modulus {
     public static void main(String[] args) {
-        // kullanicidan 6 basamakli bir sayi alin
-        // ve rakamlar toplamini bulun
+        // Kullanicidan 4 basamakli bir sayi alip
+        // rakamlar toplamini yazdirin
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("lutfen 6 basamakli bir sayi giriniz");
+        System.out.println("lutfen 4 basamakli bir sayi giriniz");
         int sayi=scan.nextInt();
 
 
@@ -19,14 +19,6 @@ public class Q05_Modulus {
 
         // bu islemi basamak sayisi kadar
         // tekrar edersek rakamlar toplamini buluruz
-        rakam=sayi%10;
-        rakamlarToplami+=rakam;
-        sayi/=10;
-
-        rakam=sayi%10;
-        rakamlarToplami+=rakam;
-        sayi/=10;
-
         rakam=sayi%10;
         rakamlarToplami+=rakam;
         sayi/=10;

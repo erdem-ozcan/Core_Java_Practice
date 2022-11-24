@@ -1,4 +1,4 @@
-package p03_IncrementDecrement;
+package p03_incrementDecrement;
 
 public class Q06_PreincrementPostincrement {
     public static void main(String[] args) {
