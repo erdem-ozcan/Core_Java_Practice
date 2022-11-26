@@ -2,7 +2,7 @@ package p07_ifElseStatements;
 
 import java.util.Scanner;
 
-public class Q1_IfElse {
+public class Q01_IfElse {
 
         public static void main(String[] args) {
             // Soru 1) Kullanicidan dikdortgenin kenar uzunluklarini isteyin
