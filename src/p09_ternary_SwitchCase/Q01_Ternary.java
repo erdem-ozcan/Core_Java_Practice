@@ -2,7 +2,7 @@ package p09_ternary_SwitchCase;
 
 import java.util.Scanner;
 
-public class QC01_Ternary {
+public class Q01_Ternary {
     public static void main(String[] args) {
 
         // Kullanicidan iki sayi alin ve buyuk olmayan sayiyi yazdirin
